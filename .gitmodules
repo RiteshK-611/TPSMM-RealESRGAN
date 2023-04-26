@@ -1,0 +1,6 @@
+[submodule "Real-ESRGAN_main"]
+	path = Real-ESRGAN_main
+	url = ./Real-ESRGAN_main
+[submodule "Thin-Plate-Spline-Motion-Model_main"]
+	path = Thin-Plate-Spline-Motion-Model_main
+	url = ./Thin-Plate-Spline-Motion-Model_main
