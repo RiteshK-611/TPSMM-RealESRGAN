@@ -1,4 +1,4 @@
-# TPSMM-RealESRAGAN
+# TPSMM-RealESRGAN
 ![GitHub repo size](https://img.shields.io/github/repo-size/RiteshK-611/TPSMM-RealESRGAN.svg)
 
 ## Thin-Plate-Spline-Motion-model + Real-ESRGAN
