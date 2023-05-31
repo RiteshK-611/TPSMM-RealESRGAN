@@ -1,7 +1,7 @@
 # TPSMM-RealESRAGAN
-![GitHub repo size](https://img.shields.io/github/repo-size/RiteshK-611/TPSMM-RealESRAGAN.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/RiteshK-611/TPSMM-RealESRGAN.svg)
 
-## Thin-Plate-Spline-Motion-model + GFPGAN
+## Thin-Plate-Spline-Motion-model + Real-ESRGAN
 
 Animate Image with better Quality
 
